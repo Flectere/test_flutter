@@ -1,0 +1,4 @@
+#Wed Jan 17 10:14:22 MSK 2024
+base.0=C\:\\Users\\adm-admin-jon\\Desktop\\Z\\z\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
